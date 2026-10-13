@@ -1,0 +1,29 @@
+id_number,full_name,dob,document_type,institution_id
+8708479484,Harshit Kanwal,2008-04-08,campus_id,CGC Landran
+234567890123,Aarav Sharma,2001-03-15,campus_id,IIT-D
+345678901234,Priya Patel,2000-07-22,campus_id,IIT-D
+456789012345,Rohan Gupta,1999-11-08,aadhaar,UIDAI
+567890123456,Ananya Singh,2002-01-30,campus_id,NIT-W
+678901234567,Vikram Reddy,1998-05-12,driving_license,MoRTH
+789012345678,Sneha Nair,2001-09-03,campus_id,BITS-P
+890123456789,Arjun Mehta,2000-12-25,pan,Income Tax Dept
+901234567890,Kavya Iyer,1999-04-17,campus_id,IIT-B
+112233445566,Rahul Verma,2001-06-28,aadhaar,UIDAI
+223344556677,Diya Kapoor,2000-02-14,campus_id,IIT-D
+334455667788,Siddharth Joshi,1998-08-09,driving_license,MoRTH
+445566778899,Meera Krishnan,2002-10-01,campus_id,NIT-T
+556677889900,Aditya Rao,1999-07-19,aadhaar,UIDAI
+667788990011,Ishita Banerjee,2001-11-11,campus_id,IIIT-H
+778899001122,Karthik Sundaram,2000-03-05,pan,Income Tax Dept
+889900112233,Nisha Agarwal,1999-01-27,campus_id,IIT-M
+990011223344,Manish Tiwari,2001-08-14,driving_license,MoRTH
+100112233445,Pooja Deshmukh,2000-04-23,aadhaar,UIDAI
+200223344556,Raj Malhotra,1998-12-31,campus_id,BITS-G
+300334455667,Simran Kaur,2002-06-06,campus_id,PEC
+411445566778,Amit Kumar,1997-05-21,aadhaar,UIDAI
+522556677889,Deepika Chauhan,2000-09-30,campus_id,IIT-K
+633667788990,Nikhil Saxena,1999-02-28,pan,Income Tax Dept
+744778899001,Ravi Shankar,2001-04-10,campus_id,IIT-D
+855889900112,Lata Mangeshkar,2000-11-15,aadhaar,UIDAI
+17192766,KRISHNA KALRA,2008-09-10,marksheet,CBSE
+2555792,KRISHNA KALRA,2008-09-10,campus_id,CEC-CGC
